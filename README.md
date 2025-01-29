@@ -1,12 +1,11 @@
 # internet-marketing
-![image](https://github.com/user-attachments/assets/40269bc1-8087-4d78-a849-7159181a8645)
-![image](https://github.com/user-attachments/assets/c50dd5f6-77c3-486a-aefe-bd6e9bb312dd)
-
 # UX (User Experience) и UI (User Interface) :
 
 два взаимосвязанных аспекта дизайна, которые играют ключевую роль в создании цифровых продуктов, 
 
 таких как веб-сайты, мобильные приложения, программное обеспечение и даже физические устройства.
+
+![image](https://github.com/user-attachments/assets/40269bc1-8087-4d78-a849-7159181a8645)
 
 # UX (User Experience) :
 
@@ -103,6 +102,8 @@ UX-дизайнер продумывает сценарии использова
 которые делают взаимодействие более живым и интересным.
 
 # Заключение :
+
+![image](https://github.com/user-attachments/assets/c50dd5f6-77c3-486a-aefe-bd6e9bb312dd)
 
 Таким образом, UX и UI – это два важных аспекта дизайна,
 
